@@ -35,4 +35,17 @@ class Hello {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Warongkorn Yuwatthana");
     }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 private void Adisak) {
+        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
+        System.out.println("Trainee - Adisak Sorin");
+    }
 }
