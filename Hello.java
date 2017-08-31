@@ -24,7 +24,7 @@ class Hello {
 
 
 	private void Beaphin() {
-        System.out.println("Beaphin Somchai");
+        System.out.println("Trainee - Somchai Chawdonkoon, ASA");
 	}
    
 
@@ -49,11 +49,7 @@ class Hello {
         System.out.println("Trainee - Warongkorn Yuwatthana");
     }
 	
-	 private void Adisak) {
-	private void Beaphin() {
-        System.out.println("Trainee - Beaphin Somchai, Boy");
-    }
-	
+
 	private void BEST() {
         	System.out.println("Trainee - Surewat Intharasuwan, SE");
     	}
