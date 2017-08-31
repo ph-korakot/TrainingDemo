@@ -22,7 +22,7 @@ class Hello {
     }
 	
 	private void Beaphin() {
-        System.out.println("Beaphin Somchai");
+        System.out.println("Trainee - Somchai Chawdonkoon, ASA");
 	}
    
     private void Sasimaporn() {
@@ -45,11 +45,6 @@ class Hello {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Warongkorn Yuwatthana");
     }
-	private void Beaphin() {
-        System.out.println("Trainee - Beaphin Somchai, Boy");
-    }
-	
-	
 	
 	private void BEST() {
         	System.out.println("Trainer - Surewat Intharasuwan, SE");
