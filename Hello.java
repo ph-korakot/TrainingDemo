@@ -4,6 +4,7 @@ class Hello {
         System.out.println("Hello! We are:");
         this.Krerk();
 <<<<<<< HEAD
+<<<<<<< HEAD
 		
 		
 		
@@ -12,6 +13,10 @@ class Hello {
 =======
 		this.Nuttadet();
 >>>>>>> origin/public
+=======
+		this.Warongkorn();
+		this.nuttapongR();
+>>>>>>> 8836b71efc3033ed158bca5aba73ebbda2be9ae3
     }
     
     private void Krerk() {
@@ -26,18 +31,10 @@ class Hello {
         new Hello();
     }
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	private void nuttapongR() {
+		System.out.println("Trainee - Mr.Nuttapong Ruengratsamesan");
+	}
+
 	 private void Warongkorn() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Warongkorn Yuwatthana");
