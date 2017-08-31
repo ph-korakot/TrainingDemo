@@ -34,6 +34,7 @@ hs_err_pid*
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 # End of https://www.gitignore.io/api/java
@@ -46,3 +47,21 @@ hs_err_pid*
 # End of https://www.gitignore.io/api/java
 >>>>>>> 1388da78ac7c6445809248c2c7dc62c91f2a87c8
 >>>>>>> 6195a754f7714619b554934eb685b18487b70e03
+=======
+# End of https://www.gitignore.io/api/java
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+*.class
+=======
+>>>>>>> 43bdaaed7375bd76a575d12bbcecdbdfba4a7632
+
+>>>>>>> 3335ad0d813f0d23dff1a8c5ba1dc674eb26f53c
+=======
+=======
+*.class
+=======
+
+>>>>>>> 28a2e1297a512d17dc5f476e6317b4853ac3edc8
+>>>>>>> 88e4abbae420c9bfbcefd12d84f74ee627512fd0
+>>>>>>> 8fd88426d230aa334431d79e51180d9b97b5d8f3
