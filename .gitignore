@@ -1,3 +1,4 @@
+
 # Created by https://www.gitignore.io/api/java
 
 ### Java ###
@@ -24,20 +25,4 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-<<<<<<< HEAD
 # End of https://www.gitignore.io/api/java
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-*.class
-=======
->>>>>>> 43bdaaed7375bd76a575d12bbcecdbdfba4a7632
-
->>>>>>> 3335ad0d813f0d23dff1a8c5ba1dc674eb26f53c
-=======
-=======
-*.class
-=======
-
->>>>>>> 28a2e1297a512d17dc5f476e6317b4853ac3edc8
->>>>>>> 88e4abbae420c9bfbcefd12d84f74ee627512fd0
