@@ -3,6 +3,7 @@ class Hello {
     public Hello() {
         System.out.println("Hello! We are:");
         this.Krerk();
+		this.nuttapongR();
     }
     
     private void Krerk() {
@@ -12,4 +13,8 @@ class Hello {
     public static void main(String [] argv) {
         new Hello();
     }
+	
+	private void nuttapongR() {
+		System.out.println("Mr.Nuttapong Ruengratsamesan");
+	}
 }
