@@ -5,6 +5,7 @@ class Hello {
         this.Krerk();
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		
 		
 		
@@ -17,6 +18,9 @@ class Hello {
 		this.Warongkorn();
 		this.nuttapongR();
 >>>>>>> 8836b71efc3033ed158bca5aba73ebbda2be9ae3
+=======
+		this.Kittikun();
+>>>>>>> 1388da78ac7c6445809248c2c7dc62c91f2a87c8
     }
     
     private void Krerk() {
@@ -25,6 +29,10 @@ class Hello {
 	
     private void Nuttadet() {
         System.out.println("Trainee - Nuttadet Orasa, Ph.D.");
+    }
+	
+    private void Kittikun() {
+        System.out.println("Git exame Kittikun Sienarm");
     }
     
     public static void main(String [] argv) {
