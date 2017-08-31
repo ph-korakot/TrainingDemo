@@ -21,7 +21,7 @@ class Hello {
     }
    
     private void Sasimaporn() {
-        System.out.println("Trainer - Sasimaporn Sillapasit, Ph.D.");
+        System.out.println("Trainee - Sasimaporn Sillapasit, Ph.D.");
 
 	
     private void Nuttadet() {
