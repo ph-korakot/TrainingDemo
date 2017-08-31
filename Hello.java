@@ -2,18 +2,29 @@ class Hello {
     
     public Hello() {
         System.out.println("Hello! We are:");
+
         this.Krerk();
+
+
+		this.Varunee();
+
+
 		this.Beaphin();
+
         this.Sasimaporn();
+
 		this.Warongkorn();
-		this.Nuttadet();
-		this.Warongkorn();
-		this.Beaphin();
-		this.Adisak();
 		this.nuttapongR();
+
+
+
         	this.BEST();
 		this.Krerk();
 		this.Pilai();
+
+
+		this.Mild();
+        		this.BEST();
 
 
     }
@@ -21,17 +32,31 @@ class Hello {
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
     }
+
+
+
 	
-	private void Beaphin() {
-        System.out.println("Beaphin Somchai");
+	private void Varunee () {
+        System.out.println("Trainer - Varunee Komonsubin, SA");
+
 	}
-   
+	
+	
+
+    private void Mild() {
+        System.out.println("Trainee - Yuphaphorn Wiwekwaew");
+    }
+
+
+
     private void Sasimaporn() {
-        System.out.println("Trainee - Sasimaporn Sillapasit, Ph.D.");
+        System.out.println("Trainee - Sasimaporn Sillapasit");
 	}
 	
     private void Nuttadet() {
-        System.out.println("Trainee - Nuttadet Orasa, Ph.D.");
+
+        System.out.println("Trainee - Nuttadet Orasa");
+
     }
 
     public static void main(String [] argv) {
@@ -46,14 +71,10 @@ class Hello {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Warongkorn Yuwatthana");
     }
-	private void Beaphin() {
-        System.out.println("Trainee - Beaphin Somchai, Boy");
-    }
 	
-	
-	
+
 	private void BEST() {
-        	System.out.println("Trainer - Surewat Intharasuwan, SE");
+        	System.out.println("Trainee - Surewat Intharasuwan, SE");
     	}
 	
 	 private void Adisak() {
@@ -65,3 +86,6 @@ class Hello {
         System.out.println("Trainee - Pilai");
     }
 }
+
+}
+
