@@ -2,6 +2,7 @@ class Hello {
     
     public Hello() {
         System.out.println("Hello! We are:");
+
         	this.Krerk();
         	this.Sasimaporn();
 		this.Warongkorn();
@@ -11,14 +12,14 @@ class Hello {
 		this.Adisak();
 		this.nuttapongR();
         	this.BEST();
-		this.Krerk();
-
+		this.Kittikun();
 
     }
     
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
     }
+
    
     private void Sasimaporn() {
         System.out.println("Trainee - Sasimaporn Sillapasit, Ph.D.");
@@ -27,6 +28,13 @@ class Hello {
     private void Nuttadet() {
         System.out.println("Trainee - Nuttadet Orasa, Ph.D.");
     }
+
+
+	
+    private void Kittikun() {
+        System.out.println("Git exame Kittikun Sienarm");
+    }
+    
 
     public static void main(String [] argv) {
         new Hello();
