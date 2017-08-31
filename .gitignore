@@ -24,9 +24,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/java
 <<<<<<< HEAD
 =======
 *.class
+=======
+>>>>>>> 43bdaaed7375bd76a575d12bbcecdbdfba4a7632
 
 >>>>>>> 3335ad0d813f0d23dff1a8c5ba1dc674eb26f53c
