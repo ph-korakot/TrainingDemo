@@ -13,6 +13,7 @@ class Hello {
 		this.nuttapongR();
         	this.BEST();
 		this.Krerk();
+		this.Pilai();
 
 
     }
@@ -58,5 +59,9 @@ class Hello {
 	 private void Adisak() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Adisak Sorin");
+    }
+	 private void Pilai() {
+        System.out.println("Trainee - Pilai");
+        System.out.println("Trainee - Pilai");
     }
 }
