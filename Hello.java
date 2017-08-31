@@ -3,20 +3,16 @@ class Hello {
     public Hello() {
         System.out.println("Hello! We are:");
         this.Krerk();
-<<<<<<< HEAD
-<<<<<<< HEAD
 		
 		
 		
 		
 		this.Warongkorn();
-=======
 		this.Nuttadet();
->>>>>>> origin/public
-=======
 		this.Warongkorn();
+		this.Beaphin();
+		this.Adisak();
 		this.nuttapongR();
->>>>>>> 8836b71efc3033ed158bca5aba73ebbda2be9ae3
     }
     
     private void Krerk() {
@@ -39,6 +35,9 @@ class Hello {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Warongkorn Yuwatthana");
     }
+	private void Beaphin() {
+        System.out.println("Trainee - Beaphin Somchai, Boy");
+    }
 	
 	
 	
@@ -48,7 +47,7 @@ class Hello {
 	
 	
 	
-	 private void Adisak) {
+	 private void Adisak() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Adisak Sorin");
     }
