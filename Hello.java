@@ -4,6 +4,10 @@ class Hello {
         System.out.println("Hello! We are:");
         	this.Krerk();
 		this.Warongkorn();
+		this.Nuttadet();
+		this.Warongkorn();
+		this.Beaphin();
+		this.Adisak();
 		this.nuttapongR();
         	this.BEST();
 		this.Krerk();
@@ -13,7 +17,10 @@ class Hello {
     
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
-        System.out.println("Trainee - Krerk Piromsopa, Ph.D. --- ");
+    }
+	
+    private void Nuttadet() {
+        System.out.println("Trainee - Nuttadet Orasa, Ph.D.");
     }
 
     public static void main(String [] argv) {
@@ -28,6 +35,9 @@ class Hello {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Warongkorn Yuwatthana");
     }
+	private void Beaphin() {
+        System.out.println("Trainee - Beaphin Somchai, Boy");
+    }
 	
 	
 	
@@ -39,7 +49,7 @@ class Hello {
 	
 	
 	
-	 private void Adisak) {
+	 private void Adisak() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Adisak Sorin");
     }
