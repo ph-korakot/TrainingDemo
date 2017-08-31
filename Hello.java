@@ -8,6 +8,7 @@ class Hello {
 		
 		
 		this.Warongkorn();
+		this.Beaphin();
     }
     
     private void Krerk() {
@@ -19,6 +20,10 @@ class Hello {
         new Hello();
     }
 	
+	private void Beaphin() {
+        System.out.println("Trainee - Beaphin Somchai, Boy");
+    }
+}
 	
 	
 	
