@@ -2,18 +2,29 @@ class Hello {
     
     public Hello() {
         System.out.println("Hello! We are:");
+<<<<<<< HEAD
 
         	this.Krerk();
         	this.Sasimaporn();
+=======
+        this.Krerk();
+	
+		
+		
+>>>>>>> 6195a754f7714619b554934eb685b18487b70e03
 		this.Warongkorn();
 		this.Nuttadet();
 		this.Warongkorn();
 		this.Beaphin();
 		this.Adisak();
 		this.nuttapongR();
+<<<<<<< HEAD
         	this.BEST();
 		this.Kittikun();
 
+=======
+		this.Kittikun();
+>>>>>>> 6195a754f7714619b554934eb685b18487b70e03
     }
     
     private void Krerk() {
@@ -51,12 +62,16 @@ class Hello {
 	private void Beaphin() {
         System.out.println("Trainee - Beaphin Somchai, Boy");
     }
+<<<<<<< HEAD
 	
 	
 	
 	private void BEST() {
         	System.out.println("Trainer - Surewat Intharasuwan, SE");
     	}
+=======
+
+>>>>>>> 6195a754f7714619b554934eb685b18487b70e03
 	
 	 private void Adisak() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");

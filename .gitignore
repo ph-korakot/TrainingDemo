@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 1388da78ac7c6445809248c2c7dc62c91f2a87c8
+>>>>>>> 6195a754f7714619b554934eb685b18487b70e03
 # Created by https://www.gitignore.io/api/java
 
 ### Java ###
@@ -29,7 +33,16 @@
 hs_err_pid*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 # End of https://www.gitignore.io/api/java
 >>>>>>> master
+=======
+# End of https://www.gitignore.io/api/java
+=======
+*.class
+=======
+# End of https://www.gitignore.io/api/java
+>>>>>>> 1388da78ac7c6445809248c2c7dc62c91f2a87c8
+>>>>>>> 6195a754f7714619b554934eb685b18487b70e03
