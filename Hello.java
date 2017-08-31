@@ -2,16 +2,20 @@ class Hello {
     
     public Hello() {
         System.out.println("Hello! We are:");
-        this.Krerk();
+        	this.Krerk();
 		this.Warongkorn();
 		this.nuttapongR();
+        	this.BEST();
+		this.Krerk();
+
+
     }
     
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
         System.out.println("Trainee - Krerk Piromsopa, Ph.D. --- ");
     }
-    
+
     public static void main(String [] argv) {
         new Hello();
     }
@@ -27,7 +31,9 @@ class Hello {
 	
 	
 	
-	
+	private void BEST() {
+        	System.out.println("Trainer - Surewat Intharasuwan, SE");
+    	}
 	
 	
 	
