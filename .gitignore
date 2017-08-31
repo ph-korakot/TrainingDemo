@@ -25,3 +25,8 @@
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java
+<<<<<<< HEAD
+=======
+*.class
+
+>>>>>>> 3335ad0d813f0d23dff1a8c5ba1dc674eb26f53c
