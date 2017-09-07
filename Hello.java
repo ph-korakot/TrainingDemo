@@ -3,6 +3,7 @@ class Hello {
     public Hello() {
         System.out.println("Hello! We are:");
         this.Krerk();
+		this.nawarinImarom();
     }
     
     private void Krerk() {
@@ -12,4 +13,11 @@ class Hello {
     public static void main(String [] argv) {
         new Hello();
     }
+	
+	
+	
+	private void nawarinImarom(){
+		System.out.println("==== Nawarin Imarom ====");
+	}
+	
 }
