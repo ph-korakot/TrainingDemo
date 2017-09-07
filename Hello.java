@@ -5,6 +5,8 @@ class Hello {
 
         this.Krerk();
 		this.nawarinImarom();
+		this.Piyapat();
+
     }
 		this.pattanan();
 				this.pattanan();
@@ -51,9 +53,17 @@ class Hello {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
     }
 
+
     private void pattanan() {
         System.out.println("Trainer - pattanan Boonsiri");
     }
+
+
+	
+	private void Piyapat(){
+		 System.out.println("Piyapat Plydaung");
+        
+	}
 
     
     private void Tanachai() {
